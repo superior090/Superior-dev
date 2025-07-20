@@ -1,0 +1,19 @@
+[
+    {
+        "Name": "Em",
+        "Subject": "ri",
+        "Scores": 4.0,
+        "Average": 4.0,
+        "Grade": "A"
+    },
+    {
+        "Name": "yu",
+        "Subject": "j",
+        "Scores": [
+            60.0,
+            80.0
+        ],
+        "Average": 70.0,
+        "Grade": "A"
+    }
+]
